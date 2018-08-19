@@ -1,2 +1,2 @@
 # hello-world
-Interested in learning new processes and programming skills. I'am into spatial analysis, geoprocessing, geomedia, urban planning and I'm lookingto improve my projects with the use of big data and python and emerging ideas. I will keep imrpoving this description as I get more involved in this community. 
+Interested in Geospatial analysis and processing, photogrammetry, programming, science and everything that takes place in a computer and cool gadgets! Urban planner as background, keep-on-learning enthusiast and always looking forward collaborating on useful projects to make life easier to the community.
